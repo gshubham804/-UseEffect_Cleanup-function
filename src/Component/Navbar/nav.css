@@ -1,0 +1,10 @@
+nav{
+    height: 15vh;
+    width: 100vw;
+    background-color: rgb(250, 249, 249);
+}
+
+.nav h3{
+    float: left;
+    padding: 0.8rem 2rem;
+}
